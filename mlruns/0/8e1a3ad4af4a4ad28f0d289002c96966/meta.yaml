@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8e1a3ad4af4a4ad28f0d289002c96966/artifacts
+end_time: 1783942546988
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e1a3ad4af4a4ad28f0d289002c96966
+run_name: gregarious-crane-566
+run_uuid: 8e1a3ad4af4a4ad28f0d289002c96966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783942544460
+status: 3
+tags: []
+user_id: Aditya Raj

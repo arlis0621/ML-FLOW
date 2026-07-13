@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341705818272838823/f28668ba54d84274832b2e4d366e2fe3/artifacts
+end_time: 1783945234936
+entry_point_name: ''
+experiment_id: '341705818272838823'
+lifecycle_stage: active
+run_id: f28668ba54d84274832b2e4d366e2fe3
+run_name: gaudy-wren-997
+run_uuid: f28668ba54d84274832b2e4d366e2fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783945234130
+status: 3
+tags: []
+user_id: Aditya Raj

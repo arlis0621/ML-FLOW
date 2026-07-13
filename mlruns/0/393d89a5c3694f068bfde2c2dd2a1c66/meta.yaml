@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/393d89a5c3694f068bfde2c2dd2a1c66/artifacts
+end_time: 1783941880435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 393d89a5c3694f068bfde2c2dd2a1c66
+run_name: adorable-gnat-724
+run_uuid: 393d89a5c3694f068bfde2c2dd2a1c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783941879920
+status: 4
+tags: []
+user_id: Aditya Raj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/259470325581936776/2723303bf2cd4294b0f2c2007d89594b/artifacts
+end_time: 1783945648024
+entry_point_name: ''
+experiment_id: '259470325581936776'
+lifecycle_stage: active
+run_id: 2723303bf2cd4294b0f2c2007d89594b
+run_name: efficient-shrimp-242
+run_uuid: 2723303bf2cd4294b0f2c2007d89594b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783945640799
+status: 3
+tags: []
+user_id: Aditya Raj
