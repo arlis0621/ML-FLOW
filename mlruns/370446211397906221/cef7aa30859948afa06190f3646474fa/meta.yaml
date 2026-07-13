@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/ML-FLOW/mlruns/370446211397906221/cef7aa30859948afa06190f3646474fa/artifacts
+end_time: 1783950257567
+entry_point_name: ''
+experiment_id: '370446211397906221'
+lifecycle_stage: active
+run_id: cef7aa30859948afa06190f3646474fa
+run_name: brawny-bass-411
+run_uuid: cef7aa30859948afa06190f3646474fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783950238845
+status: 3
+tags: []
+user_id: Aditya Raj

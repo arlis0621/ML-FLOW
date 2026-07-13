@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS/ML-FLOW/mlruns/370446211397906221/656557097e694a99b9262f0ece9240ea/artifacts
+end_time: 1783950376014
+entry_point_name: ''
+experiment_id: '370446211397906221'
+lifecycle_stage: active
+run_id: 656557097e694a99b9262f0ece9240ea
+run_name: shivering-donkey-102
+run_uuid: 656557097e694a99b9262f0ece9240ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1783950360003
+status: 3
+tags: []
+user_id: Aditya Raj
